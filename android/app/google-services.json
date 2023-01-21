@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548327728052",
+    "project_id": "tedxvitb",
+    "storage_bucket": "tedxvitb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548327728052:android:c846c5cb20a25cb9dc88e1",
+        "android_client_info": {
+          "package_name": "com.example.tedxvitb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548327728052-1fjpcgj8hobr54jvnfjquik3476k2cl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7MJMnbWWH0cKHrpgBV1eqJqJWbxdRBMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548327728052-1fjpcgj8hobr54jvnfjquik3476k2cl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
