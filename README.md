@@ -1,16 +1,9 @@
 # tedxvitb
+For the task round.
 
-A new Flutter project.
+Demo video:<br>
+[![Demo video](https://img.youtube.com/vi/XjG3Iplw9mo/0.jpg)](https://www.youtube.com/watch?v=XjG3Iplw9mo)<br>
+[click here](https://www.youtube.com/watch?v=XjG3Iplw9mo) or https://www.youtube.com/watch?v=XjG3Iplw9mo
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Download the apk [here](https://drive.google.com/file/d/158HlNJ2_i6Nq-kuh54cnxj94M8ZzV44Y/view?usp=sharing)
